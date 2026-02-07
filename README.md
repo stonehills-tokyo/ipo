@@ -15,6 +15,7 @@
 - [BRANU（460A）分析](chatgpt/BRANU.md)
 - [インテリックスホールディングス（463A）分析](chatgpt/インテリックスホールディングス.md)
 - [QPSホールディングス（464A）分析](chatgpt/QPSホールディングス.md)
+- [FUNDINNO（462A）分析](chatgpt/FUNDINNO.md)
 
 ### 投資対象銘柄 
 - [ノースサンド（446A）分析](chatgpt/ノースサンド.md)
