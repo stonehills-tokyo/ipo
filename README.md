@@ -24,3 +24,4 @@
 ### リンク
 - [ノースサンド（446A）分析](chatgpt/ノースサンド.md)
 - [HUMAN MADE（456A）分析](chatgpt/HUMAN%20MADE.md)
+- [BRANU（460A）分析](chatgpt/BRANU.md)
