@@ -13,3 +13,6 @@
 - [HUMAN MADE（456A）分析](chatgpt/HUMAN%20MADE.md)
 - [BRANU（460A）分析](chatgpt/BRANU.md)
 - [インテリックスホールディングス（463A）分析](chatgpt/インテリックスホールディングス.md)
+
+### 投資対象銘柄
+
