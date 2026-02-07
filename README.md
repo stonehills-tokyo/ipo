@@ -1,4 +1,7 @@
-### IPO銘柄
-ipolist.md を以下をもとに生成する
+### リスティング
+ - ipolist.md を以下をもとに生成する
+ - [JPX](https://www.jpx.co.jp/listing/stocks/new/00-archives-01.html)
+
+### Link list
+
 * [ipolist.md](ipolist.md)
-https://www.jpx.co.jp/english/listing/stocks/new/index.html
