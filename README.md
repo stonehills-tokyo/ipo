@@ -17,6 +17,7 @@
 - [QPSホールディングス（464A）分析](chatgpt/QPSホールディングス.md)
 - [FUNDINNO（462A）分析](chatgpt/FUNDINNO.md)
 - [フィットクルー（469A）分析](chatgpt/フィットクルー.md)
+- [AlbaLink（5537）分析](chatgpt/AlbaLink.md)
 
 ### 投資対象銘柄 
 - [ノースサンド（446A）分析](chatgpt/ノースサンド.md)
