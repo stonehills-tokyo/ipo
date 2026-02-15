@@ -1,7 +1,7 @@
 ## Rule for AI
 - 以下を参照
-[1]: https://www.jpx.co.jp/listing/stocks/new/00-archives-01.html "新規上場銘柄一覧（株式） | 日本取引所グループ"
-[2]: https://www.jpx.co.jp/listing/stocks/new/index.html "新規上場銘柄一覧（株式） | 日本取引所グループ"
+- [1]: https://www.jpx.co.jp/listing/stocks/new/00-archives-01.html "新規上場銘柄一覧（株式） | 日本取引所グループ"
+- [2]: https://www.jpx.co.jp/listing/stocks/new/index.html "新規上場銘柄一覧（株式） | 日本取引所グループ"
 
 - 項目は上場日、コード、会社名、市場区分
 
