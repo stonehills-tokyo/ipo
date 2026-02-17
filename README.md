@@ -21,6 +21,8 @@
 - [FUNDINNO（462A）分析](chatgpt/FUNDINNO.md)
 - [フィットクルー（469A）分析](chatgpt/フィットクルー.md)
 - [AlbaLink（5537）分析](chatgpt/AlbaLink.md)
+- [NSグループ（471A）分析](chatgpt/NSグループ.md)
 
 ### 投資対象銘柄 
 - [ノースサンド（446A）分析](chatgpt/ノースサンド.md)
+- [NSグループ（471A）分析](chatgpt/NSグループ.md)
