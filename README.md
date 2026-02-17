@@ -10,6 +10,7 @@
  - 投資対象指定の指示があった場合、"### 投資対象銘柄 " にリンクを記載
 
 ### リンク
+- [ipolist掲載銘柄に関する購入適格性スクリーニング研究レポート](chatgpt/ipolist掲載銘柄に関する購入適格性スクリーニング研究レポート.md)
 - [ノースサンド（446A）分析](chatgpt/ノースサンド.md)
 - [HUMAN MADE（456A）分析](chatgpt/HUMAN%20MADE.md)
 - [BRANU（460A）分析](chatgpt/BRANU.md)
