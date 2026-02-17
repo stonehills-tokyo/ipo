@@ -12,6 +12,11 @@
 ### 分析
 - [ipolist掲載銘柄に関する購入適格性スクリーニング研究レポート](chatgpt/ipolist掲載銘柄に関する購入適格性スクリーニング研究レポート.md)
 
+```
+deepresearch → github ipoを選択
+ipolist.md にある会社を検索し、そこから投資対象と適格なものをリストアップ
+```
+
 ### 銘柄分析
 - [ノースサンド（446A）分析](chatgpt/ノースサンド.md)
 - [HUMAN MADE（456A）分析](chatgpt/HUMAN%20MADE.md)
