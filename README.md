@@ -12,7 +12,6 @@
 ### 分析
 - [ipolist掲載銘柄に関する購入適格性スクリーニング研究レポート](chatgpt/ipolist掲載銘柄に関する購入適格性スクリーニング研究レポート.md)
 
-
 ```
 deepresearch → github ipoを選択
 ipolist.md にある会社を検索し、そこから投資対象と適格なものをリストアップ
